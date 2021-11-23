@@ -1,9 +1,12 @@
 ### Hi there 👋
 
 I'm Ewan Zhang, and I do content on Development. I really enjoy learning languages and frameworks like React and Javascript, as well as work in Node.js.
-I also enjoy wireframing, ui, ux, and design in general.
+I also enjoy wireframing, ui, ux, and design in general. I'm studying
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zyc2339)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zyc2339&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
