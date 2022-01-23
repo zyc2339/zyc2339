@@ -2,11 +2,12 @@
 
  I do content on Development. I really enjoy learning languages and frameworks like React and JavaScript, as well as work in Node.js.
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / JS / HTML / CSS / Express / MongoDB  
 
-- 🔭 I’m currently working on Docker 
-- 🤔 I’m looking for help with K8S 
-- 📫 How to reach me: zyc2339@gmail.com 
+- 🔭 I’m currently working on MVP project
+- 🌱 I’m currently learning TypeScript
+- ⚡ Fun fact: Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it take.
+
 
 <!--
 **zyc2339/zyc2339** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
