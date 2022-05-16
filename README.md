@@ -4,7 +4,7 @@
 
 Skills: REACT / JS / HTML / CSS / Express / MongoDB  
 
-- 🔭 I’m currently Looking for job opportunities.
+<!-- - 🔭 I’m currently Looking for job opportunities. -->
 - 🔭 I’m currently working on open souce project.
 - 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me: zyc2339@gmail.com
