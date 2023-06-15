@@ -1,12 +1,9 @@
 ### Hi there 👋, my name is Ewan.
 
- I do content on Development. I really enjoy learning languages and frameworks like React and JavaScript, as well as work in Node.js.
+Passionate about front-end development, I bring a wealth of project experience and a current role as a full-stack course trainer.
 
-Skills: REACT / JS / HTML / CSS / Express / MongoDB  
+Skills: REACT / JS  / Express / MongoDB  
 
-<!-- - 🔭 I’m currently Looking for job opportunities. -->
-- 🔭 I’m currently working on open souce project.
-- 🌱 I’m currently learning TypeScript.
 - 📫 How to reach me: zyc2339@gmail.com
 - ⚡ Fun fact: Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it take.
 
