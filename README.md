@@ -2,7 +2,6 @@
 
 Passionate about front-end development, I bring a wealth of project experience and a current role as a full-stack course trainer.
 
-Skills: REACT / JS  / Express / MongoDB  
 
 - 📫 How to reach me: zyc2339@gmail.com
 - ⚡ Fun fact: Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it take.
