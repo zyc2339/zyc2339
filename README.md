@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Ewan.
 
-Passionate about front-end development, I bring a wealth of project experience and a current role as a full-stack course trainer.
+Passionate about any interesting development, current work as a full-stack course trainer.
 
 
 - 📫 How to reach me: zyc2339@gmail.com
