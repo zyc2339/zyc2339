@@ -1,10 +1,10 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" />
+<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
 
 ## 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE
 
   Passionate about any interesting development, current work as a full-stack course trainer.
 
-- ⚡ Fun fact: Programming is similar to a game of golf. The point is not getting the ball in the hole but how many strokes it take.
+
 
 ## 📫 Contact me via:
 
