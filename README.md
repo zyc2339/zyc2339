@@ -1,17 +1,17 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
 
-<h2 style="border-bottom:none"> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</h2> 
+<p> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</p>
 
   Passionate about any interesting development, current work as a full-stack course trainer.
 
 
 
-<h2 style="border-bottom: 0;"> 📫 Contact me via:</h2> 
+<p>  📫 Contact me via:</p> 
 
   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:zyc2339@gmail.com)&emsp;
   [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ewan-zhang/)&emsp;
 
-## 🔧 Technologies & Tools
+<p> 🔧 Technologies & Tools</p> 
 
 <div align="center">
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;
@@ -28,11 +28,7 @@
   <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>&nbsp;
 </div>
 
-## 📈 My Activities
+<p> 📈 My Activities</p> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake.svg">
-</picture>
+![Snake animation](https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake-dark.svg)
 
