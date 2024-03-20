@@ -1,12 +1,12 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
-<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
-## 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE
+
+<h2> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</h2> 
 
   Passionate about any interesting development, current work as a full-stack course trainer.
 
 
 
-## 📫 Contact me via:
+<h2> 📫 Contact me via:</h2> 
 
   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>](mailto:zyc2339@gmail.com)&emsp;
   [<img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ewan-zhang/)&emsp;
