@@ -30,5 +30,5 @@
 
 <p> 📈 My Activities</p> 
 
-![Snake animation](https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/zyc2339/zyc2339/output/github-contribution-grid-snake.svg)
 
