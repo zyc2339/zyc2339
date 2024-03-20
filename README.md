@@ -1,5 +1,5 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
-
+<style>h1,h2,h3,h4 { border-bottom: 0; } </style>
 ## 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE
 
   Passionate about any interesting development, current work as a full-stack course trainer.
