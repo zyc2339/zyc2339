@@ -1,6 +1,6 @@
 <img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
 
-<h2 style="border-bottom: 0;"> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</h2> 
+<h2 style="border-bottom:none"> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</h2> 
 
   Passionate about any interesting development, current work as a full-stack course trainer.
 
