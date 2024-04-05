@@ -1,4 +1,4 @@
-<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="350px" height="230" style="padding: 50px; z-index:99"/>
+<img alt="GIF" align="right" src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="315px" height="217" style="padding: 50px; z-index:99"/>
 
 <p> 👋🏼 Hello, I'm Ewan - Pronounce: E-ONE</p>
 
